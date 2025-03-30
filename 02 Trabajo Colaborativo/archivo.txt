@@ -1,1 +1,7 @@
 Creando un archivo para la rama feature-branch
+
+Se realiza un fork al repositorio de la actividad para luego clonarlo y agregar el pdf de la clase 
+con las preguntas respondidas y el tp de la semana anterior
+Se crea una rama como dice la actividad y los archivos txt
+Se realiza un merge para fusionar feature branch con main para resolucion de conflictos
+se realian commits y se pusea todo al repositorio propio de github
